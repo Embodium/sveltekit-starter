@@ -1,0 +1,7 @@
+name = "worker demo"
+compatibility_date = "2022-06-14"
+format = "modules"
+main = "./.svelte-kit/cloudflare/worker.mjs"
+
+[site]
+bucket = "./.svelte-kit/cloudflare/assets"
